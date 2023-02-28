@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Soumodeep
 - 👀 I’m interested in Web Dev and Data Structure
-- 🌱 I’m currently learning ReactJS
+- 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on Web Dev projects
 - 📫 Reach me via email dasdeep0608@gmail.com
 
